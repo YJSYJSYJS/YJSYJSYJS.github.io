@@ -1,0 +1,18 @@
+# Oracle 설치시 접했던 에러들과 해결방법 정리
+ - ctf
+  -- 어떻게 해결되었는지 잘 모르곘음 - 다시 찾아보자
+ - ram 부족
+  -- 가상메모리 사용법
+
+# Oracle database 접속
+sql_200 교재 24p, 25p
+
+# sql developer 글씨 작을 때 해결방법
+https://dongdongfather.tistory.com/105
+
+# 생활코딩 sql developer 사용법 내용 정리
+https://opentutorials.org/course/3885/26358
+
+# .ipynb_checkpoints handling
+
+# int(input()) 시 1.2 왜 안될까? -> input()은 string반환 int()는 숫자로만 이루어진 string, 모든 숫자들 integer로 변환 반환가능!

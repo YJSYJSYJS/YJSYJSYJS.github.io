@@ -20,7 +20,7 @@ title                    : "Why-JS" # "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YJS" # "Your Name"
-description              : "my er website."
+description              : "my personal website."
 url                      : "https://YJSYJSYJS.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Youn Jong Su"
   avatar           : "/assets/images/myphoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I will become an **amazing** person."
   location         : "Chung-ang University, Seoul"
   email            : "dbs106@gmail.com"
   links:
